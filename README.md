@@ -1,5 +1,5 @@
 # evolucao-de-aprendizagem
-![ ] ( https://i.imgur.com/xG74tOh.png )
+ ( https://i.imgur.com/xG74tOh.png )
 
 # EXEMPLO - Conteúdo modelo no GitHub
 
