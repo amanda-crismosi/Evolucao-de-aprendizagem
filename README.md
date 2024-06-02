@@ -1,8 +1,6 @@
 # evolucao-de-aprendizagem
 
 
-# EXEMPLO - Conteúdo modelo no GitHub
-
 ## Conteúdos para serem trabalhados nesse módulo:
 
 - Funções
