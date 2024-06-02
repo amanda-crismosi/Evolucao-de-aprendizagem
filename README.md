@@ -1,43 +1,40 @@
 # evolucao-de-aprendizagem
-[ ( https://i.imgur.com/xG74tOh.png )](https://github.com/cubos-academy/evolucao-de-aprendizagem/commit/cc2703e70ab136ab2eb9f73ac2d30fbaeb01cb51#:~:text=!%5B%20%5D%20(%20https%3A//i.imgur.com/xG74tOh.png%20))
+
 
 # EXEMPLO - Conteúdo modelo no GitHub
 
 ## Conteúdos para serem trabalhados nesse módulo:
 
-- Habilidades interpessoais
-- LinkedIn
-- Ética em tecnologia
+- Funções
+- Tipos de dados
 - Gestão de tempo
-- Git básico
-- Introdução ao TypeScript
+- Tipos de ultilitários 
 - Métodos de strings
-- Métodos de matrizes
+- Currículo e carta de apresentação
+- Métodos de Arrays
+- Linkedin
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras pessoas na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+-  Gestão de tempo é um processo de priorização e organização de tarefas para ter um aproveitamento no tempo investido
+-  Método de string é uma forma de manipular textos
+-  Carta de apresentação é um breve texto onde você se apresenta para o recrutador.
+-  Método de array é uma forma de manipular arrays.
+-  O LinkedIn é uma rede social profissional que conecta empregadores, funcionários e candidatos a vagas de emprego. 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Como posso desenvolver minhas habilidades de gerenciamento de tempo e aplicá-las no meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+- Gostaria de aprender melhor sobre funções
+- Gostaria de saber quais são os tipos de dados
+- Gostaria de saber como otimizar e melhorar meu tempo.
+- Quero aprender como ser mais objetiva e clara para carta de apresentação 
+- Quero saber como melhorar meu Linkedin de forma que empresas encontrem meu perfil com mais facilidade.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram envolvidos nesse módulo?
 
-- Aprenda como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entender que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprenda a usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+- Aprendi que função é uma forma de agrupar um conjunto de instruções que executa uma terefa para reutiliza-la sob demanda.
+- Aprendi que tipos de dados referen-se diferentes formatos e estruturas de dados que podem ser utilizados para armazenar informações
+determinam como os dados serão interpretados e manipulados pelo programa.
+- Aprendi administrar as horas do meu dia de forma eficaz, para planejar minhas tarefas com base no tempo que tenho disponível que tenho.
+- Aprendi que acarta de apresentação deve ser personalizada para cada oportunidade. Nele, devo colocar informações que falem sobre a vaga, nome da empresa e minhas capacidades específicas para o cargo.
+ 
