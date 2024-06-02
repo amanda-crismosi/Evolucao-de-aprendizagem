@@ -1,5 +1,7 @@
 # evolucao-de-aprendizagem
 
+![](https://i.imgur.com/xG74tOh.png)
+
 
 ## Conteúdos para serem trabalhados nesse módulo:
 
